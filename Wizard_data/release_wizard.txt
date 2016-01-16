@@ -1,0 +1,12 @@
+name="Knight Hawk v2"
+url="http://kstreamer.com/repo/source/knight_20160115.zip"
+img="http://vignette2.wikia.nocookie.net/siegefall/images/8/82/Knight_Icon.png"
+fanart="https://raw.githubusercontent.com/schismtv/schismtvrepo/master/build2.png"
+description="knight hawk initial release, with different profiles"
+
+name="old knight build v1"
+url="http://kstreamer.com/repo/source/knight_20160105.zip"
+img="http://s1.tsuki-board.net/pics/figure/big/349670.jpg"
+fanart="http://s1.tsuki-board.net/pics/figure/big/349670.jpg"
+description="initial build, lot of content but not easy to navigate"
+

@@ -1,0 +1,5 @@
+name="DO not install"
+url="https://archive.org/download/flix_updates/k125.zip"
+img="https://raw.githubusercontent.com/nighthawk/logo.png"
+fanart="https://raw.githubusercontent.com/nighthawk/logo.png"
+description="update Test"
